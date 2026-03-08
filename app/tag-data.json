@@ -1,11 +1,17 @@
 {
   "cloud-native": 2,
-  "security": 1,
+  "security": 2,
   "architecture": 1,
   "kubernetes": 1,
   "observability": 1,
   "opentelemetry": 1,
   "kind": 1,
   "podman": 1,
-  "macos": 1
+  "macos": 1,
+  "azure": 1,
+  "entra-id": 1,
+  "terraform": 1,
+  "zero-trust": 1,
+  "power-platform": 1,
+  "iac": 1
 }
