@@ -11,7 +11,7 @@ layout: 'PostBanner'
 
 # Introduction
 
-Connecting Power Apps to custom backend APIs is common in enterprise environments. What is less common is doing it _properly_ — with identity-based security, no shared secrets for API access, and infrastructure that is fully reproducible.
+Connecting Power Apps to custom backend APIs is common in enterprise environments. The harder part is the security layer — identity-based access instead of shared secrets, and infrastructure that is fully reproducible rather than manually configured.
 
 This post walks through a template I built for exactly that:
 a **C# Azure Function** protected by **Entra ID** and **EasyAuth v2**, consumed by a **Power Apps custom connector** via OAuth 2.0, with all infrastructure and identity configuration automated in **Terraform**.
