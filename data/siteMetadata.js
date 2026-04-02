@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Philipp Galliker',
   footerTitle: 'Cloud & Platform Engineering',
   description:
-    'Cloud & Platform Engineering with a focus on cloud platforms, identity, automation, and observability — practical notes, experiments, and real-world lessons from building and operating modern cloud systems.',
+    'Cloud & Platform Engineering with a focus on cloud platforms, cloud-native architectures, identity, automation, and observability — practical notes, experiments, and real-world lessons from building and operating modern cloud systems.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
