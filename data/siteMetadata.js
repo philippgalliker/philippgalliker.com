@@ -1,11 +1,11 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Cloud & Platform Engineering | Philipp Galliker',
+  title: 'Cloud Development & Platform Engineering | Philipp Galliker',
   author: 'Philipp Galliker',
   headerTitle: 'Philipp Galliker',
-  footerTitle: 'Cloud & Platform Engineering',
+  footerTitle: 'Cloud Development & Platform Engineering',
   description:
-    'Cloud & Platform Engineering with a focus on cloud platforms, cloud-native architectures, identity, automation, and observability — practical notes, experiments, and real-world lessons from building and operating modern cloud systems.',
+    'Cloud Development & Platform Engineering with a focus on Microsoft Azure, cloud-native architectures, identity, automation, and observability — practical notes, experiments, and real-world lessons from building and operating modern cloud systems.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
