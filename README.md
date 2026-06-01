@@ -213,6 +213,17 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 Edit the layout in `app` or content in `data`. With live reloading, the pages auto-updates as you edit them.
 
+## Deployment / Workflow
+
+1. Make your changes.
+2. Test the production build locally:
+
+```bash
+yarn run build
+```
+
+3. Commit your changes and push.
+
 ## Extend / Customize
 
 `data/siteMetadata.js` - contains most of the site related information which should be modified for a user's need.
