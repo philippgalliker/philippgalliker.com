@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Cloud Application Engineering | Philipp Galliker',
+  title: 'Cloud-Native Application Engineering | Philipp Galliker',
   author: 'Philipp Galliker',
   headerTitle: 'Philipp Galliker',
-  footerTitle: 'Cloud Application Engineering',
+  footerTitle: 'Cloud-Native Application Engineering',
   description:
-    'Cloud application engineering focused on Microsoft Azure, React frontend development, AI integration, DevOps practices, and cloud-native architectures. Exploring observability, scalability, and modern system design through practical experiments and real-world implementations.',
+    'Cloud-native application engineering — designing and building scalable, resilient applications and AI integrations on Microsoft Azure, delivered through DevOps and automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
   language: 'en-us',
-  theme: 'dark', // system, dark or light
+  theme: 'light', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
