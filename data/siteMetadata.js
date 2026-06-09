@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Philipp Galliker',
   footerTitle: 'Cloud-Native Application Engineering',
   description:
-    'Cloud-native application engineering — designing and building scalable, resilient applications and AI integrations on Microsoft Azure, delivered through DevOps and automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
+    'Designing and building scalable, resilient applications and AI integrations on Microsoft Azure, delivered through DevOps and automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
   language: 'en-us',
   theme: 'light', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
