@@ -16,16 +16,16 @@ const Header = () => {
     <header className={headerClass}>
       <Link href="/" aria-label={siteMetadata.headerTitle}>
         <div className="flex items-center justify-between">
-          <div className="mr-3">
+          <div className="logo-medium relative mr-3 h-10 w-10 flex-shrink-0 sm:h-16 sm:w-16">
             <Image
               src="/static/images/philippgalliker-logo.png"
               alt="Logo"
-              width={64}
-              height={64}
+              fill
+              className="object-contain"
             />
           </div>
           {typeof siteMetadata.headerTitle === 'string' ? (
-            <div className="mb-1 hidden h-6 text-2xl font-semibold sm:block">
+            <div className="header-title--small header-title--medium text-lg font-semibold sm:text-2xl">
               {siteMetadata.headerTitle}
             </div>
           ) : (
