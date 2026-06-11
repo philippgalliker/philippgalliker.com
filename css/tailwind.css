@@ -179,8 +179,8 @@ input:-webkit-autofill:focus {
 /* Header title sizing for small viewports (<=420px) */
 @media (max-width: 420px) {
   .header-title--small {
-    font-size: 0.9375rem; /* ~15px */
-    line-height: 1.25rem;
+    font-size: 1.2rem; /* 16px */
+    line-height: 1.5rem;
   }
 }
 
