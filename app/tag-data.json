@@ -13,5 +13,11 @@
   "terraform": 1,
   "zero-trust": 1,
   "power-platform": 1,
-  "iac": 1
+  "iac": 1,
+  "vue": 1,
+  "testing": 1,
+  "cicd": 1,
+  "frontend": 1,
+  "github-actions": 1,
+  "git": 1
 }
