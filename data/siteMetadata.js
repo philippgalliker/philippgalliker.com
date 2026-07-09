@@ -1,11 +1,11 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Cloud-Native Application Engineering | Philipp Galliker',
+  title: 'Philipp Galliker | Cloud & Web Engineering',
   author: 'Philipp Galliker',
   headerTitle: 'Philipp Galliker',
-  footerTitle: 'Cloud-Native Application Engineering',
+  footerTitle: 'Cloud & Web Engineering',
   description:
-    'Designing and building scalable, resilient applications and AI integrations on Microsoft Azure, delivered through DevOps and automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
+    'Senior Software Engineer building scalable, resilient applications and AI integrations on Microsoft Azure with React, C#, UX and DevOps automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
   language: 'en-us',
   theme: 'light', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
