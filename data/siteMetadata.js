@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Philipp Galliker | Cloud & Web Engineering',
+  title: 'Philipp Galliker | Cloud-Native Software Engineering ',
   author: 'Philipp Galliker',
   headerTitle: 'Philipp Galliker',
-  footerTitle: 'Cloud & Web Engineering',
+  footerTitle: 'Cloud-Native Software Engineering',
   description:
     'Software Engineer building end-to-end software with C#/.NET and React – from architecture and user experience to cloud-native delivery on Microsoft Azure. I connect application development, cloud architecture, DevOps, and observability to build software that lasts. Exploring Kubernetes, platform engineering, AI-assisted engineering, security, and green software through hands-on experiments and real-world implementations.',
   language: 'en-us',
