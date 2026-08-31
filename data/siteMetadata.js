@@ -5,7 +5,7 @@ const siteMetadata = {
   headerTitle: 'Philipp Galliker',
   footerTitle: 'Cloud & Web Engineering',
   description:
-    'Senior Software Engineer building scalable, resilient applications and AI integrations on Microsoft Azure with React, C#, UX and DevOps automation. Exploring Kubernetes, observability, and platform engineering through hands-on experiments and real-world builds.',
+    'Software Engineer building end-to-end software with C#/.NET and React – from architecture and user experience to cloud-native delivery on Microsoft Azure. I connect application development, cloud architecture, DevOps, and observability to build software that lasts. Exploring Kubernetes, platform engineering, AI-assisted engineering, security, and green software through hands-on experiments and real-world implementations.',
   language: 'en-us',
   theme: 'light', // system, dark or light
   siteUrl: 'https://philippgalliker.com',
